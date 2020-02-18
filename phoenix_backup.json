@@ -1,0 +1,44 @@
+[
+{
+"Paths": [
+"D:/phoenix/.git",
+"D:/phoenix/src",
+"D:/phoenix/contrib",
+"D:/phoenix/.vscode",
+"D:/phoenix/githooks",
+"D:/phoenix/deviceconfig",
+"D:/phoenix/.idea",
+"D:/phoenix/scanner",
+"D:/phoenix/configstore",
+"D:/phoenix/journalsvc",
+"D:/phoenix/customerconfig",
+"D:/phoenix/audittrail",
+"D:/phoenix/ltrnode",
+"D:/phoenix/cloudcache",
+"D:/phoenix/storageconfig",
+"D:/phoenix/aggregatesvc",
+"D:/phoenix/mdsnode",
+"D:/phoenix/ltrmaster",
+"D:/phoenix/mdsmaster",
+"D:/phoenix/analyticssvc",
+"D:/phoenix/drst-go",
+"D:/phoenix/sqlserver",
+"D:/phoenix/alertsvc",
+"D:/phoenix/authorizationsvc",
+"D:/phoenix/reportingsvc",
+"D:/phoenix/billingsvc",
+"D:/phoenix/vmware",
+"D:/phoenix/pkg",
+"D:/phoenix/hyperv",
+"D:/phoenix/nas"
+],
+"Size": 1603504107
+},
+{
+"Paths": [
+"D:/phoenix/fileserver",
+"D:/phoenix/dockerbuild"
+],
+"Size": 87399042
+}
+]

@@ -1,0 +1,797 @@
+{
+"Name": "D:/root/",
+"Info": {
+"Path": "D:/root/",
+"FileCount": 43,
+"FolderCount": 26,
+"Size": 27797,
+"IsDir": true
+},
+"Children": [
+{
+"Name": "D:/root/Joey",
+"Info": {
+"Path": "D:/root/Joey",
+"FileCount": 4,
+"FolderCount": 2,
+"Size": 2185,
+"IsDir": true
+},
+"Children": [
+{
+"Name": "D:/root/Joey/j1",
+"Info": {
+"Path": "D:/root/Joey/j1",
+"FileCount": 2,
+"FolderCount": 0,
+"Size": 664,
+"IsDir": true
+},
+"Children": [
+{
+"Name": "D:/root/Joey/j1/file.go",
+"Info": {
+"Path": "D:/root/Joey/j1/file.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 365,
+"IsDir": false
+},
+"Children": null
+},
+{
+"Name": "D:/root/Joey/j1/file2.go",
+"Info": {
+"Path": "D:/root/Joey/j1/file2.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 299,
+"IsDir": false
+},
+"Children": null
+}
+]
+},
+{
+"Name": "D:/root/Joey/j2",
+"Info": {
+"Path": "D:/root/Joey/j2",
+"FileCount": 2,
+"FolderCount": 0,
+"Size": 1521,
+"IsDir": true
+},
+"Children": [
+{
+"Name": "D:/root/Joey/j2/channelSyn.go",
+"Info": {
+"Path": "D:/root/Joey/j2/channelSyn.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 347,
+"IsDir": false
+},
+"Children": null
+},
+{
+"Name": "D:/root/Joey/j2/channels1.go",
+"Info": {
+"Path": "D:/root/Joey/j2/channels1.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 1174,
+"IsDir": false
+},
+"Children": null
+}
+]
+}
+]
+},
+{
+"Name": "D:/root/bob",
+"Info": {
+"Path": "D:/root/bob",
+"FileCount": 10,
+"FolderCount": 5,
+"Size": 2815,
+"IsDir": true
+},
+"Children": [
+{
+"Name": "D:/root/bob/b1",
+"Info": {
+"Path": "D:/root/bob/b1",
+"FileCount": 2,
+"FolderCount": 0,
+"Size": 558,
+"IsDir": true
+},
+"Children": [
+{
+"Name": "D:/root/bob/b1/close.go",
+"Info": {
+"Path": "D:/root/bob/b1/close.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 214,
+"IsDir": false
+},
+"Children": null
+},
+{
+"Name": "D:/root/bob/b1/collection.go",
+"Info": {
+"Path": "D:/root/bob/b1/collection.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 344,
+"IsDir": false
+},
+"Children": null
+}
+]
+},
+{
+"Name": "D:/root/bob/b2",
+"Info": {
+"Path": "D:/root/bob/b2",
+"FileCount": 2,
+"FolderCount": 0,
+"Size": 558,
+"IsDir": true
+},
+"Children": [
+{
+"Name": "D:/root/bob/b2/close.go",
+"Info": {
+"Path": "D:/root/bob/b2/close.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 214,
+"IsDir": false
+},
+"Children": null
+},
+{
+"Name": "D:/root/bob/b2/collection.go",
+"Info": {
+"Path": "D:/root/bob/b2/collection.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 344,
+"IsDir": false
+},
+"Children": null
+}
+]
+},
+{
+"Name": "D:/root/bob/b3",
+"Info": {
+"Path": "D:/root/bob/b3",
+"FileCount": 2,
+"FolderCount": 0,
+"Size": 561,
+"IsDir": true
+},
+"Children": [
+{
+"Name": "D:/root/bob/b3/channelSyn.go",
+"Info": {
+"Path": "D:/root/bob/b3/channelSyn.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 347,
+"IsDir": false
+},
+"Children": null
+},
+{
+"Name": "D:/root/bob/b3/close.go",
+"Info": {
+"Path": "D:/root/bob/b3/close.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 214,
+"IsDir": false
+},
+"Children": null
+}
+]
+},
+{
+"Name": "D:/root/bob/b4",
+"Info": {
+"Path": "D:/root/bob/b4",
+"FileCount": 2,
+"FolderCount": 0,
+"Size": 577,
+"IsDir": true
+},
+"Children": [
+{
+"Name": "D:/root/bob/b4/Sort.go",
+"Info": {
+"Path": "D:/root/bob/b4/Sort.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 257,
+"IsDir": false
+},
+"Children": null
+},
+{
+"Name": "D:/root/bob/b4/sixth.go",
+"Info": {
+"Path": "D:/root/bob/b4/sixth.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 320,
+"IsDir": false
+},
+"Children": null
+}
+]
+},
+{
+"Name": "D:/root/bob/b5",
+"Info": {
+"Path": "D:/root/bob/b5",
+"FileCount": 2,
+"FolderCount": 0,
+"Size": 561,
+"IsDir": true
+},
+"Children": [
+{
+"Name": "D:/root/bob/b5/channelSyn.go",
+"Info": {
+"Path": "D:/root/bob/b5/channelSyn.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 347,
+"IsDir": false
+},
+"Children": null
+},
+{
+"Name": "D:/root/bob/b5/close.go",
+"Info": {
+"Path": "D:/root/bob/b5/close.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 214,
+"IsDir": false
+},
+"Children": null
+}
+]
+}
+]
+},
+{
+"Name": "D:/root/chandler",
+"Info": {
+"Path": "D:/root/chandler",
+"FileCount": 10,
+"FolderCount": 5,
+"Size": 4741,
+"IsDir": true
+},
+"Children": [
+{
+"Name": "D:/root/chandler/c1",
+"Info": {
+"Path": "D:/root/chandler/c1",
+"FileCount": 2,
+"FolderCount": 0,
+"Size": 1521,
+"IsDir": true
+},
+"Children": [
+{
+"Name": "D:/root/chandler/c1/channelSyn.go",
+"Info": {
+"Path": "D:/root/chandler/c1/channelSyn.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 347,
+"IsDir": false
+},
+"Children": null
+},
+{
+"Name": "D:/root/chandler/c1/channels1.go",
+"Info": {
+"Path": "D:/root/chandler/c1/channels1.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 1174,
+"IsDir": false
+},
+"Children": null
+}
+]
+},
+{
+"Name": "D:/root/chandler/c2",
+"Info": {
+"Path": "D:/root/chandler/c2",
+"FileCount": 2,
+"FolderCount": 0,
+"Size": 1521,
+"IsDir": true
+},
+"Children": [
+{
+"Name": "D:/root/chandler/c2/channelSyn.go",
+"Info": {
+"Path": "D:/root/chandler/c2/channelSyn.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 347,
+"IsDir": false
+},
+"Children": null
+},
+{
+"Name": "D:/root/chandler/c2/channels1.go",
+"Info": {
+"Path": "D:/root/chandler/c2/channels1.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 1174,
+"IsDir": false
+},
+"Children": null
+}
+]
+},
+{
+"Name": "D:/root/chandler/c3",
+"Info": {
+"Path": "D:/root/chandler/c3",
+"FileCount": 2,
+"FolderCount": 0,
+"Size": 561,
+"IsDir": true
+},
+"Children": [
+{
+"Name": "D:/root/chandler/c3/channelSyn.go",
+"Info": {
+"Path": "D:/root/chandler/c3/channelSyn.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 347,
+"IsDir": false
+},
+"Children": null
+},
+{
+"Name": "D:/root/chandler/c3/close.go",
+"Info": {
+"Path": "D:/root/chandler/c3/close.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 214,
+"IsDir": false
+},
+"Children": null
+}
+]
+},
+{
+"Name": "D:/root/chandler/c4",
+"Info": {
+"Path": "D:/root/chandler/c4",
+"FileCount": 2,
+"FolderCount": 0,
+"Size": 577,
+"IsDir": true
+},
+"Children": [
+{
+"Name": "D:/root/chandler/c4/Sort.go",
+"Info": {
+"Path": "D:/root/chandler/c4/Sort.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 257,
+"IsDir": false
+},
+"Children": null
+},
+{
+"Name": "D:/root/chandler/c4/sixth.go",
+"Info": {
+"Path": "D:/root/chandler/c4/sixth.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 320,
+"IsDir": false
+},
+"Children": null
+}
+]
+},
+{
+"Name": "D:/root/chandler/c5",
+"Info": {
+"Path": "D:/root/chandler/c5",
+"FileCount": 2,
+"FolderCount": 0,
+"Size": 561,
+"IsDir": true
+},
+"Children": [
+{
+"Name": "D:/root/chandler/c5/channelSyn.go",
+"Info": {
+"Path": "D:/root/chandler/c5/channelSyn.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 347,
+"IsDir": false
+},
+"Children": null
+},
+{
+"Name": "D:/root/chandler/c5/close.go",
+"Info": {
+"Path": "D:/root/chandler/c5/close.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 214,
+"IsDir": false
+},
+"Children": null
+}
+]
+}
+]
+},
+{
+"Name": "D:/root/monika",
+"Info": {
+"Path": "D:/root/monika",
+"FileCount": 8,
+"FolderCount": 3,
+"Size": 4623,
+"IsDir": true
+},
+"Children": [
+{
+"Name": "D:/root/monika/channelSyn.go",
+"Info": {
+"Path": "D:/root/monika/channelSyn.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 347,
+"IsDir": false
+},
+"Children": null
+},
+{
+"Name": "D:/root/monika/channels1.go",
+"Info": {
+"Path": "D:/root/monika/channels1.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 1174,
+"IsDir": false
+},
+"Children": null
+},
+{
+"Name": "D:/root/monika/m1",
+"Info": {
+"Path": "D:/root/monika/m1",
+"FileCount": 2,
+"FolderCount": 0,
+"Size": 60,
+"IsDir": true
+},
+"Children": [
+{
+"Name": "D:/root/monika/m1/abc",
+"Info": {
+"Path": "D:/root/monika/m1/abc",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 57,
+"IsDir": false
+},
+"Children": null
+},
+{
+"Name": "D:/root/monika/m1/byte.txt",
+"Info": {
+"Path": "D:/root/monika/m1/byte.txt",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 3,
+"IsDir": false
+},
+"Children": null
+}
+]
+},
+{
+"Name": "D:/root/monika/m2",
+"Info": {
+"Path": "D:/root/monika/m2",
+"FileCount": 2,
+"FolderCount": 0,
+"Size": 1521,
+"IsDir": true
+},
+"Children": [
+{
+"Name": "D:/root/monika/m2/channelSyn.go",
+"Info": {
+"Path": "D:/root/monika/m2/channelSyn.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 347,
+"IsDir": false
+},
+"Children": null
+},
+{
+"Name": "D:/root/monika/m2/channels1.go",
+"Info": {
+"Path": "D:/root/monika/m2/channels1.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 1174,
+"IsDir": false
+},
+"Children": null
+}
+]
+},
+{
+"Name": "D:/root/monika/m3",
+"Info": {
+"Path": "D:/root/monika/m3",
+"FileCount": 2,
+"FolderCount": 0,
+"Size": 1521,
+"IsDir": true
+},
+"Children": [
+{
+"Name": "D:/root/monika/m3/channelSyn.go",
+"Info": {
+"Path": "D:/root/monika/m3/channelSyn.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 347,
+"IsDir": false
+},
+"Children": null
+},
+{
+"Name": "D:/root/monika/m3/channels1.go",
+"Info": {
+"Path": "D:/root/monika/m3/channels1.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 1174,
+"IsDir": false
+},
+"Children": null
+}
+]
+}
+]
+},
+{
+"Name": "D:/root/project-copy.go",
+"Info": {
+"Path": "D:/root/project-copy.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 8146,
+"IsDir": false
+},
+"Children": null
+},
+{
+"Name": "D:/root/sam",
+"Info": {
+"Path": "D:/root/sam",
+"FileCount": 4,
+"FolderCount": 2,
+"Size": 2185,
+"IsDir": true
+},
+"Children": [
+{
+"Name": "D:/root/sam/s1",
+"Info": {
+"Path": "D:/root/sam/s1",
+"FileCount": 2,
+"FolderCount": 0,
+"Size": 664,
+"IsDir": true
+},
+"Children": [
+{
+"Name": "D:/root/sam/s1/file.go",
+"Info": {
+"Path": "D:/root/sam/s1/file.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 365,
+"IsDir": false
+},
+"Children": null
+},
+{
+"Name": "D:/root/sam/s1/file2.go",
+"Info": {
+"Path": "D:/root/sam/s1/file2.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 299,
+"IsDir": false
+},
+"Children": null
+}
+]
+},
+{
+"Name": "D:/root/sam/s2",
+"Info": {
+"Path": "D:/root/sam/s2",
+"FileCount": 2,
+"FolderCount": 0,
+"Size": 1521,
+"IsDir": true
+},
+"Children": [
+{
+"Name": "D:/root/sam/s2/channelSyn.go",
+"Info": {
+"Path": "D:/root/sam/s2/channelSyn.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 347,
+"IsDir": false
+},
+"Children": null
+},
+{
+"Name": "D:/root/sam/s2/channels1.go",
+"Info": {
+"Path": "D:/root/sam/s2/channels1.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 1174,
+"IsDir": false
+},
+"Children": null
+}
+]
+}
+]
+},
+{
+"Name": "D:/root/tina",
+"Info": {
+"Path": "D:/root/tina",
+"FileCount": 6,
+"FolderCount": 3,
+"Size": 3102,
+"IsDir": true
+},
+"Children": [
+{
+"Name": "D:/root/tina/t1",
+"Info": {
+"Path": "D:/root/tina/t1",
+"FileCount": 2,
+"FolderCount": 0,
+"Size": 60,
+"IsDir": true
+},
+"Children": [
+{
+"Name": "D:/root/tina/t1/abc",
+"Info": {
+"Path": "D:/root/tina/t1/abc",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 57,
+"IsDir": false
+},
+"Children": null
+},
+{
+"Name": "D:/root/tina/t1/byte.txt",
+"Info": {
+"Path": "D:/root/tina/t1/byte.txt",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 3,
+"IsDir": false
+},
+"Children": null
+}
+]
+},
+{
+"Name": "D:/root/tina/t2",
+"Info": {
+"Path": "D:/root/tina/t2",
+"FileCount": 2,
+"FolderCount": 0,
+"Size": 1521,
+"IsDir": true
+},
+"Children": [
+{
+"Name": "D:/root/tina/t2/channelSyn.go",
+"Info": {
+"Path": "D:/root/tina/t2/channelSyn.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 347,
+"IsDir": false
+},
+"Children": null
+},
+{
+"Name": "D:/root/tina/t2/channels1.go",
+"Info": {
+"Path": "D:/root/tina/t2/channels1.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 1174,
+"IsDir": false
+},
+"Children": null
+}
+]
+},
+{
+"Name": "D:/root/tina/t3",
+"Info": {
+"Path": "D:/root/tina/t3",
+"FileCount": 2,
+"FolderCount": 0,
+"Size": 1521,
+"IsDir": true
+},
+"Children": [
+{
+"Name": "D:/root/tina/t3/channelSyn.go",
+"Info": {
+"Path": "D:/root/tina/t3/channelSyn.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 347,
+"IsDir": false
+},
+"Children": null
+},
+{
+"Name": "D:/root/tina/t3/channels1.go",
+"Info": {
+"Path": "D:/root/tina/t3/channels1.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 1174,
+"IsDir": false
+},
+"Children": null
+}
+]
+}
+]
+}
+]
+}

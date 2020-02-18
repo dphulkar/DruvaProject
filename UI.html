@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSS Template</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="./style.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8="
+crossorigin="anonymous"></script>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the side navigation */
+.sidenav {
+    border-radius: 25px; 
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgba(80, 79, 79, 0.918);
+  overflow-x: hidden;
+}
+
+
+/* Side navigation links */
+.sidenav a {
+  color: white;
+  padding: 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color on hover */
+.sidenav a:hover {
+  background-color: rgb(37, 14, 245);
+  color: rgb(204, 198, 198);
+}
+
+/* Style the content */
+.content {
+  margin-left: 185px;
+  
+  padding-left: 20px;
+}
+
+/* Style the inner */
+.inner {
+    border-radius: 25px; 
+  padding-left: 0px;
+  padding-right:5px;
+
+  height:150px;
+  background-color : #bac0c5;
+
+}
+</style>
+</head>
+<body>
+
+<div class="sidenav">
+  <div> Analytics</div>
+  <a href="#" data-container="c1">Tree Visualization</a>
+  <a data-container="c2"> Backupset</a>
+  <a></a>
+  <a href="#">Size</a>
+  <a href="#">File Count</a>
+</div>
+
+<div class="content">
+  <div id="c1" class="content-container">
+    <div class="row">
+      <div class="column">
+          <div id="selectSource">
+              <input type="file" name="folderName" id="folderName" class="inputfile" webkitdirectory />
+              <label for="folderName"><i class="fa fa-folder-open-o"></i>&nbsp; Select a Source Directory</label>
+          </div>
+      </div>
+      <div class="column">
+          <input type="text" id="sourceDirPath" class="myInput" />
+      </div>
+  </div>  
+    
+  </div>
+  <div id="c2" class="content-container">
+</div>
+</div>
+
+<script src="./tree.js"></script>
+<script src="./temp.js"></script>
+</body>
+</html>

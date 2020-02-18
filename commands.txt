@@ -1,0 +1,14 @@
+memory
+
+$ go build
+$go test -bench=Div_SSA -memprofile=memory.pb.gz
+$go tool pprof memory.pb.gz
+$pprof -http=:6060 memory.pb.gz
+
+
+cpu
+
+$ go build
+$go test -bench=Div_SSA -cpuprofile=cpu.pb.gz
+$go tool pprof cpu.pb.gz
+$pprof -http=:6060 cpu.pb.gz

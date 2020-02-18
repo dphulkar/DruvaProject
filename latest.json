@@ -1,0 +1,23 @@
+{
+"Name": "D:/latest/",
+"Info": {
+"Path": "D:/latest/",
+"FileCount": 1,
+"FolderCount": 0,
+"Size": 11053,
+"IsDir": true
+},
+"Children": [
+{
+"Name": "D:/latest/limited_goroutines_failes_for_deadlock.go",
+"Info": {
+"Path": "D:/latest/limited_goroutines_failes_for_deadlock.go",
+"FileCount": 0,
+"FolderCount": 0,
+"Size": 11053,
+"IsDir": false
+},
+"Children": null
+}
+]
+}

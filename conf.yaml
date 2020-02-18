@@ -1,0 +1,8 @@
+path : ["D:/phoenix/","D:/root/","D:/latest/"]
+#backupsize : [1234,1234,100]
+#workers : [1,2,3,4]
+files : [18370,43,1]
+folders : [3445,26,0]
+size : [1691905516,27797,11053]
+treeName : ["phoenix.json","root.json","latest.json"]
+backupfileName : ["phoenix_backup.json","root_backup.json","latest_backup.json"]
